@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AF-02841BMR-B)(type Legacy)(uri ${KIPRJMOD}/AF-02841BMR-B.lib)(options "")(descr ""))
+  (lib (name TP4056_board)(type Legacy)(uri ${KIPRJMOD}/TP4056_board.lib)(options "")(descr ""))
+)

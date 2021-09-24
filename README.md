@@ -23,6 +23,7 @@ PCB of the Plant care system
 <img src="images/3d_board_4.png">
 <img src="images/3d_board_5.png">
 <img src="images/3d_board_6.png">
+<img src="images/pcb_photo.jpg">
 
 ## External 3D models used in the PCB render
 

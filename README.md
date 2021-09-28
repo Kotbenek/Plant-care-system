@@ -24,9 +24,12 @@ PCB of the Plant care system
 <img src="images/3d_board_5.png">
 <img src="images/3d_board_6.png">
 <img src="images/pcb_photo.jpg">
+<img src="images/assembled_pcb_photo_1.jpg">
+<img src="images/assembled_pcb_photo_2.jpg">
 
 ## External 3D models used in the PCB render
 
 - [TP4056 module](https://grabcad.com/library/03962a-hw107-lithium-battery-charging-module-1)
 - [18650 battery holder](https://grabcad.com/library/18650-single-slot-battery-holder-leaded-1)
 - [Terminal block](https://grabcad.com/library/degson-dg301-series-5-0mm-terminal-block-pack-1)
+

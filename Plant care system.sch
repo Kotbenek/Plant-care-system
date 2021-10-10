@@ -1136,7 +1136,7 @@ Wire Wire Line
 Wire Wire Line
 	6200 7400 6200 7450
 Text Notes 3600 7650 0    50   ~ 0
-LED_2 LED_1 LED_0 - description\n000 - menu inactive\n001 - time setting\n010 - watering time setting\n011 - watering duration setting\n100 - lamp time on\n101 - lamp time off\n110 - displaying time\n111 - displaying watering countdown
+LED_2 LED_1 LED_0 - description\n000 - menu inactive\n001 - time setting\n010 - watering time setting\n011 - watering duration setting\n100 - lamp time on\n101 - lamp time off\n110 - displaying time\n111 - displaying Vcc
 $Comp
 L Device:R_Small R2
 U 1 1 61AD612A

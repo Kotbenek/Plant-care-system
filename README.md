@@ -1,3 +1,8 @@
+# Moved to Codeberg
+
+This repository was moved to Codeberg:
+https://codeberg.org/Kotbenek/Plant-care-system
+
 # Plant care system
 PCB of the Plant care system
 
